@@ -2,7 +2,7 @@
 
 ![sleepy-mr-bean](https://user-images.githubusercontent.com/64629896/165621431-e714b1ba-c660-44d5-82a5-6b42231a9eeb.gif)
 
-Run
+<h2>Run</h2>
 Python3 drowsiness_yawn.py -- webcam 0		//For external webcam, use the webcam number accordingly
 Setups
 Change the threshold values according to your need
