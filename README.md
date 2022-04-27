@@ -5,6 +5,6 @@
 <h2>Dataset</h2>
 <li>https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new
 <h2>Run</h2>
-<li>Execute "drowsiness_detection.py"
+<li>Execute "drowsiness detection.py"
 <h2>Author</h2>
 <li>Ameya Deshmukh
